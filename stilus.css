@@ -1,0 +1,74 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0fdf4;
+  color: #1a3e2e;
+}
+nav {
+  background-color: #10b981;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+nav a {
+  color: white;
+  background-color: #059669;
+  text-decoration: none;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-top: 0.75em;
+  padding-bottom: 0.75em;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+  border-radius: 5px;
+  font-weight: bold;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+}
+
+nav a:hover {
+  background-color: #047857;
+}
+header h1 {
+  text-align: center;
+  background: #10b981;
+  color: white;
+  margin-bottom: 2em;
+  font-size: 3em;
+  padding: 1.5em;
+}
+article {
+  max-width: 900px;
+  text-align: justify;
+  padding: 1em;
+}
+section {
+  background-color: #e6fef1;
+  border-left: 10px solid #10b981;
+  padding: 1em;
+  margin-bottom: 2em;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(16, 185, 129, 0.1);
+}
+
+.szoveg {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+h2 {
+  color: #065f46;
+  margin-top: 0;
+  font-size: 1.8rem;
+}
+.szoveg p,
+.szoveg ul {
+  margin-bottom: 1em;
+  text-align: justify;
+}
+.szoveg img {
+  width: 100%;
+  border-radius: 10px;
+  margin-top: 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+@media screen {
+}

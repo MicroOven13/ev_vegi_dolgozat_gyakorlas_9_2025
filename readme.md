@@ -4,8 +4,8 @@
 
 1. Egészítsd ki a az oldalt a hiányzó meta tagekkel!
 2. A böngésző címsorába a saját neved kerüljön.
-3. A .szoveg elnevezésű divekbe kerüljön bele a mintán látható felsorolás  és a kép!
-4. A láblécbe  a saját neved kerüljön. 
+3. A .szoveg elnevezésű divekbe kerüljön bele a mintán látható felsorolás és a kép!
+4. A láblécbe a saját neved kerüljön.
 5. Csatolj stíluslapot az index.html-hez
 6. Készíts másolatot az index.html-ről (kétszer) és nevezd át úgy, hogy a navigáció működjön! Ehhez a navigáció linkjeit is módosítanod kell!
 
@@ -13,13 +13,13 @@
 
 **Az oldal**
 
-betűtípusa:   'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+betűtípusa: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 háttérszíne: #f0fdf4;
 betűszíne: #1a3e2e;
 
 **A navigáció**
 
-háttérszíne:  #10b981;
+háttérszíne: #10b981;
 A belső margó: 1rem
 alsó margója: 2rem
 
@@ -61,7 +61,7 @@ box-shadow: 0 0 15px rgba(16, 185, 129, 0.1); – Finom zöldes árnyék.
 
 **A .szoveg osztályú konténer rácsos elrendezése**:
 
-helyezd el a tartalomat két egyenlő  szélességű oszlopban.
+helyezd el a tartalomat két egyenlő szélességű oszlopban.
 10 pixeles hézag az elemek között.
 
 **Másodszintű címsor (alcím) stílusa**:
@@ -83,12 +83,10 @@ A kép szélessége 100%.
 Lekerekített sarkok.
 1rem; – Felső margó.
 box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); – Finom árnyék a kép alatt.
-
 # Reszponzivitás
-
 
 Az oldal  töréspontja 600px-nél legyen!
 Használj nagyobb betűméretet
 Az oldal szélessége 100% legyen!
 A navigáció menüpontjai kerüljenek egymás alá!
-A képek a szöveg alá kerüljenek. 
+A képek a szöveg alá kerüljenek.
